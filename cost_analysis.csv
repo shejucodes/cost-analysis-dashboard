@@ -1,0 +1,756 @@
+﻿Date,Region,Product Category,Product,Customer Name,Sales,Cost
+"15 November, 2021",West,Grocery,Fruits and Vegetables,Vincent Herbert,"$1,682.39",$200.05
+"17 November, 2021",East,Furniture,Clocks,John Britto,$272.34,$14.58
+"20 November, 2021",West,Grocery,Fruits and Vegetables,David Flashing,"$2,970.27","$1,635.85"
+"22 November, 2021",East,Stationery,File Labels,Maxwell Schwartz,$190.05,$90.85
+"04 November, 2021",West,Grocery,Fruits and Vegetables,Lela Donovan,"$5,342.57","$1,929.65"
+"06 November, 2021",East,Stationery,Art Supplies,Susan Juliet,$45.31,$12.93
+"08 November, 2021",East,Grocery,Fruits and Vegetables,Carl Lewis,"$2,974.81",$986.08
+"10 November, 2021",East,Stationery,Specialty Envelopes,Pete Zachriah,$455.08,$195.66
+"11 November, 2021",West,Grocery,Fruits and Vegetables,Andy Roddick,"$3,928.38","$1,386.98"
+"13 November, 2021",West,Stationery,Copy Paper,Venus Powell,$409.51,$40.92
+"15 November, 2021",East,Stationery,Computer Paper,Pete Zachriah,$27.69,$9.51
+"16 November, 2021",East,Grocery,Fruits and Vegetables,Hilary Holden,$955.88,$573.23
+"17 November, 2021",West,Stationery,Highlighters,Joseph Aaron,$37.48,$0.13
+"17 November, 2021",East,Stationery,Standard Labels,Patrick O'Brill,$225.84,$99.76
+"18 November, 2021",West,Stationery,Computer Paper,William Brown,"$1,816.44",$625.29
+"19 November, 2021",West,Grocery,Fruits and Vegetables,Carl Lewis,"$2,381.21",$635.39
+"20 November, 2021",West,Stationery,Copy Paper,Steven Roelle,$517.75,$172.60
+"21 November, 2021",East,Stationery,Portable Storage,Nathan Astle,$928.16,$258.75
+"22 November, 2021",West,Stationery,Pencils,Victor Price,$120.72,$5.41
+"23 November, 2021",West,Stationery,Round Ring Binders,Helen Magadalene,$235.69,$83.67
+"26 November, 2021",West,Stationery,Art Supplies,Hilary Holden,$69.82,$14.31
+"27 November, 2021",West,Stationery,Highlighters,Joseph Airdo,$57.07,$0.35
+"29 November, 2021",East,Stationery,Copy Paper,Maxwell Schwartz,$120.42,$34.98
+"30 November, 2021",West,Grocery,Meat,Susan Juliet,$28.73,$5.87
+"03 December, 2021",West,Stationery,Standard Labels,Peter Brian,$229.55,$91.74
+"04 December, 2021",West,Grocery,Fruits and Vegetables,Rick Reed,"$1,697.96",$503.41
+"05 December, 2021",East,Stationery,Art Supplies,Steven Gerrard,$38.86,$9.32
+"06 December, 2021",West,Stationery,Computer Paper,Steven Roelle,$976.31,$346.20
+"10 December, 2021",West,Stationery,Writings Pads,Mary Elizabeth,$469.85,$254.83
+"11 December, 2021",East,Grocery,Fruits and Vegetables,Catherine Jordan,"$1,868.65",$252.58
+"13 December, 2021",Central,Stationery,Round Ring Binders,Benjamin Ross,$115.91,$43.29
+"14 December, 2021",East,Grocery,Meat,Maxwell Schwartz,$164.63,$80.73
+"15 December, 2021",East,Grocery,Fruits and Vegetables,Peter Brian,"$2,866.95",$392.14
+"16 December, 2021",East,Grocery,Cereals,Stephanie Ulpright,$75.92,$26.15
+"18 December, 2021",Central,Stationery,Copy Paper,Andy Flower,$15.73,$3.79
+"18 December, 2021",East,Furniture,End Tables,Rick Reed,"$10,552.11",$785.72
+"26 December, 2021",West,Grocery,Meat,Tina Thomas,$576.29,$90.00
+"27 December, 2021",East,Grocery,Fruits and Vegetables,Helen Magadalene,"$2,021.87",$243.91
+"30 December, 2021",Central,Stationery,Computer Paper,Paul Adams,$564.56,$119.03
+"31 December, 2021",East,Grocery,Fruits and Vegetables,Harold Pawlan,"$1,685.75",$567.34
+"31 December, 2021",West,Grocery,Fruits and Vegetables,Joseph Aaron,"$3,948.43","$1,218.99"
+"04 January, 2022",West,Stationery,Computer Paper,Steven Gerrard,$871.32,$397.14
+"03 December, 2021",West,Stationery,Art Supplies,Barbara Fisher,$263.63,$71.96
+"04 December, 2021",East,Stationery,Computer Paper,Wu Chang,"$1,991.93","$1,049.38"
+"05 December, 2021",Central,Stationery,Storage Cabinets,Tina Thomas,"$5,452.90",$876.71
+"09 December, 2021",Central,Stationery,Round Ring Binders,Rozario Diego,$55.85,$17.63
+"10 December, 2021",East,Furniture,Frames,Catherine Jordan,$118.82,$55.17
+"12 December, 2021",East,Grocery,Fruits and Vegetables,Rhino Augustus,"$4,546.90","$1,832.40"
+"13 December, 2021",West,Stationery,Round Ring Binders,Barbara Fisher,$136.75,$10.41
+"14 December, 2021",West,Grocery,Fruits and Vegetables,Richard Agassi,"$2,251.39",$906.48
+"16 December, 2021",East,Grocery,Fruits and Vegetables,Olvera Toch,$970.17,$160.06
+"18 December, 2021",West,Grocery,Fruits and Vegetables,Michael Angelo,$853.88,$298.40
+"18 December, 2021",East,Furniture,Office Chairs,Steven Gerrard,$905.94,$277.43
+"19 December, 2021",West,Grocery,Fruits and Vegetables,Peter Brian,$617.37,$269.63
+"20 December, 2021",West,Stationery,Computer Paper,Paul Adams,$66.76,$31.44
+"22 December, 2021",West,Stationery,Air Purifiers,William Brown,"$1,085.40",$314.28
+"23 December, 2021",East,Stationery,File Labels,Helen Magadalene,$111.45,$49.22
+"26 December, 2021",West,Stationery,Portable Storage,Benjamin Ross,"$2,010.54",$641.83
+"27 December, 2021",West,Stationery,Storage Cabinets,Rick Reed,"$6,152.80","$1,004.59"
+"29 December, 2021",East,Stationery,Art Supplies,Helen Magadalene,$526.27,$134.21
+"06 February, 2022",West,Grocery,Fruits and Vegetables,Paul Adams,"$2,147.97",$767.07
+"07 February, 2022",Central,Stationery,Binder Clips,Barbara Fisher,$172.23,$38.93
+"09 February, 2022",West,Grocery,Fruits and Vegetables,David Love,"$1,907.45",$623.79
+"10 February, 2022",East,Grocery,Fruits and Vegetables,Jason Gross,"$3,144.71","$1,033.11"
+"14 February, 2022",West,Stationery,File Labels,Lazar Mathew,$235.22,$139.97
+"17 February, 2022",East,Grocery,Fruits and Vegetables,David Love,"$2,041.59",$617.31
+"18 February, 2022",Central,Grocery,Fruits and Vegetables,Pete Zachriah,"$4,976.75","$1,923.65"
+"18 February, 2022",East,Grocery,Meat,Shui Tom,$453.87,$156.49
+"19 February, 2022",East,Grocery,Cereals,Steve Waugh,$54.25,$22.03
+"20 February, 2022",West,Grocery,Fruits and Vegetables,Richard Agassi,"$3,167.87","$1,183.64"
+"20 February, 2022",West,Grocery,Cereals,Benjamin Ross,$581.84,$240.99
+"21 February, 2022",East,Stationery,File Labels,Michael Angelo,$110.43,$51.23
+"21 February, 2022",East,Stationery,Computer Paper,Patrick O'Brill,$981.47,$316.91
+"23 February, 2022",West,Stationery,Art Supplies,Ian Fleming,$48.96,$8.68
+"24 February, 2022",Central,Grocery,Fruits and Vegetables,Steven Gerrard,"$1,497.96",$470.25
+"26 February, 2022",East,Stationery,Computer Paper,David Flashing,$836.54,$271.49
+"27 February, 2022",East,Stationery,Art Supplies,Augustine Paul,$80.90,$11.52
+"27 February, 2022",West,Stationery,Art Supplies,Mary Elizabeth,$45.91,$8.31
+"28 February, 2022",Central,Stationery,Binder Clips,Benjamin Ross,$54.29,$21.53
+"02 March, 2022",East,Grocery,Fruits and Vegetables,Munaf Patel,"$3,403.78","$1,254.91"
+"05 March, 2022",West,Stationery,Pins and Tacks,Carl Lewis,$79.83,$9.03
+"07 March, 2022",Central,Stationery,Art Supplies,Immaculate Anita,$106.28,$24.16
+"11 March, 2022",East,Grocery,Fruits and Vegetables,Mathew Reese,"$4,595.64","$1,783.56"
+"12 March, 2022",West,Stationery,Specialty Envelopes,Immaculate Anita,"$1,559.68",$724.35
+"14 March, 2022",East,Grocery,Fruits and Vegetables,Lazar Mathew,"$5,798.40","$2,207.96"
+"15 March, 2022",East,Stationery,Art Supplies,Roger Terrence,$105.44,$30.44
+"21 March, 2022",East,Grocery,Fruits and Vegetables,John Britto,"$2,446.44",$205.80
+"24 March, 2022",East,Grocery,Fruits and Vegetables,Susan Juliet,"$4,186.52","$1,409.12"
+"28 March, 2022",East,Grocery,Fruits and Vegetables,Joseph Cairn,"$4,443.26","$1,240.16"
+"30 March, 2022",East,Stationery,Art Supplies,Immaculate Anita,$140.60,$33.82
+"30 March, 2022",East,Stationery,Copy Paper,Michael Moore,$11.67,$4.53
+"31 March, 2022",East,Grocery,Fruits and Vegetables,Stephanie Ulpright,"$2,542.06","$1,427.86"
+"31 March, 2022",Central,Stationery,Writings Pads,Nathan Astle,$76.52,$23.70
+"04 April, 2022",Central,Stationery,Round Ring Binders,William Brown,$54.33,$0.60
+"05 April, 2022",East,Stationery,Computer Paper,Lance Willis,"$1,750.00",$670.34
+"06 April, 2022",East,Stationery,Writings Pads,Maxwell Schwartz,$147.96,$50.23
+"07 April, 2022",East,Stationery,Standard Labels,Susan Juliet,$75.73,$35.76
+"08 April, 2022",East,Stationery,Art Supplies,Lance Willis,$7.49,$2.06
+"09 April, 2022",East,Stationery,Art Supplies,Thomas Seio,$229.77,$43.81
+"10 April, 2022",West,Stationery,Scissors,Hallie Redmond,$321.95,$42.72
+"11 April, 2022",East,Grocery,Fruits and Vegetables,Angelus Mathew,"$5,731.46","$2,234.12"
+"16 April, 2022",West,Stationery,Art Supplies,Rhino Augustus,$65.37,$15.34
+"17 April, 2022",East,Stationery,Round Ring Binders,Mary Elizabeth,$143.10,$55.19
+"20 April, 2022",East,Stationery,Computer Paper,David Love,"$2,354.28",$958.94
+"25 April, 2022",East,Grocery,Fruits and Vegetables,Catherine Rose,"$8,712.30","$3,770.40"
+"29 April, 2022",East,Grocery,Fruits and Vegetables,Lazar Mathew,"$4,416.45","$1,809.23"
+"01 May, 2022",Central,Stationery,Art Supplies,Hallie Redmond,$154.87,$33.10
+"03 May, 2022",Central,Stationery,Standard Labels,Jency Johnah,$171.06,$65.50
+"04 May, 2022",Central,Stationery,Copy Paper,Harold Pawlan,$409.33,$43.67
+"09 May, 2022",East,Stationery,Computer Paper,Barbara Fisher,$794.32,$149.59
+"11 May, 2022",Central,Grocery,Fruits and Vegetables,Immaculate Anita,"$2,371.30","$1,015.19"
+"11 May, 2022",East,Furniture,Frames,Immaculate Anita,$662.21,$275.41
+"13 May, 2022",West,Stationery,Pins and Tacks,Munaf Patel,$33.21,$2.77
+"14 May, 2022",East,Grocery,Bread,Vincent Herbert,"$7,370.84","$3,410.91"
+"18 May, 2022",East,Grocery,Fruits and Vegetables,Benjamin Ross,"$2,132.80",$793.78
+"18 May, 2022",Central,Stationery,Art Supplies,Rhino Augustus,$44.42,$0.59
+"20 May, 2022",West,Furniture,Lighting,Sheri Gordon,$239.30,$55.27
+"21 May, 2022",East,Stationery,File Labels,Pete Zachriah,$470.74,$258.59
+"22 May, 2022",Central,Stationery,Art Supplies,Jency Johnah,$61.04,$12.84
+"25 May, 2022",East,Stationery,Art Supplies,Catherine Rose,$114.39,$38.92
+"25 May, 2022",Central,Stationery,Writings Pads,Lela Donovan,$422.04,$202.64
+"27 May, 2022",East,Stationery,Pins and Tacks,Lance Willis,$62.15,$3.33
+"02 June, 2022",West,Stationery,File Labels,Helen Magadalene,$22.78,$11.46
+"06 June, 2022",West,Grocery,Fruits and Vegetables,John Britto,"$3,498.49","$1,061.77"
+"08 June, 2022",East,Grocery,Fruits and Vegetables,Helen Magadalene,"$2,047.01",$674.07
+"08 June, 2022",Central,Stationery,Copy Paper,Benjamin Ross,$15.58,$3.91
+"13 June, 2022",East,Stationery,Portable Storage,Santa Cruz Clara,"$6,430.62","$1,731.01"
+"14 June, 2022",East,Stationery,Standard Labels,Angelus Mathew,$14.31,$6.63
+"15 June, 2022",West,Grocery,Fruits and Vegetables,Helen Magadalene,"$7,209.59","$2,789.36"
+"17 June, 2022",East,Grocery,Fruits and Vegetables,John Britto,"$3,488.79","$2,027.77"
+"17 June, 2022",East,Grocery,Fruits and Vegetables,Andy Roddick,"$2,610.46","$1,118.33"
+"18 June, 2022",Central,Stationery,Copy Paper,Andy Flower,$778.26,$217.39
+"21 June, 2022",East,Stationery,Standard Labels,Paul Adams,$74.94,$31.79
+"23 June, 2022",East,Grocery,Fruits and Vegetables,Wu Chang,$855.98,$500.39
+"27 June, 2022",East,Grocery,Fruits and Vegetables,Catherine Rose,"$4,797.36","$1,762.68"
+"28 June, 2022",East,Stationery,Scissors,Santa Cruz Clara,$638.91,$103.44
+"30 June, 2022",West,Furniture,Office Chairs,Munaf Patel,$711.44,$87.48
+"03 July, 2022",East,Stationery,File Labels,Rozario Diego,$61.45,$28.66
+"04 July, 2022",East,Grocery,Fruits and Vegetables,Victor Price,"$8,066.73","$3,389.77"
+"07 July, 2022",East,Grocery,Fruits and Vegetables,William Brown,"$1,531.90",$470.95
+"11 July, 2022",Central,Grocery,Fruits and Vegetables,Lazar Mathew,"$3,444.83","$2,088.17"
+"13 July, 2022",Central,Stationery,Specialty Envelopes,Augustine Paul,"$4,287.13","$2,031.75"
+"15 July, 2022",East,Grocery,Cereals,David Love,$222.02,$87.50
+"16 July, 2022",East,Furniture,Frames,Helen Magadalene,$323.57,$58.98
+"16 July, 2022",West,Stationery,Scissors,Harold Pawlan,$510.92,$110.57
+"21 July, 2022",Central,Stationery,Art Supplies,Jim Courier,$24.46,$7.04
+"26 July, 2022",East,Grocery,Fruits and Vegetables,Rozario Diego,"$2,564.85",$873.96
+"28 July, 2022",Central,Stationery,File Labels,Susan Juliet,$116.62,$46.34
+"31 July, 2022",East,Grocery,Fruits and Vegetables,Munaf Patel,"$3,715.50","$1,271.18"
+"03 August, 2022",East,Stationery,Art Supplies,Sheri Gordon,$137.25,$28.17
+"04 August, 2022",East,Stationery,Standard Labels,Hallie Redmond,$233.90,$129.01
+"05 August, 2022",West,Stationery,File Labels,Tina Thomas,$130.64,$71.50
+"08 August, 2022",East,Furniture,Meeting Room Tables,Santa Cruz Clara,"$7,879.88","$2,324.29"
+"09 August, 2022",East,Grocery,Fruits and Vegetables,Venus Powell,$241.47,$21.48
+"09 August, 2022",East,Stationery,Paper Clips,Munaf Patel,$110.49,$43.88
+"13 August, 2022",East,Stationery,Business Envelopes,Tina Thomas,$923.93,$548.37
+"14 August, 2022",West,Grocery,Meat,Florence Joy,$647.68,$261.09
+"20 August, 2022",East,Furniture,Clocks,Michael Moore,$700.43,$217.82
+"22 August, 2022",West,Stationery,Copy Paper,Steven Gerrard,$78.71,$1.38
+"27 August, 2022",West,Grocery,Fruits and Vegetables,Carl Lewis,"$7,128.04","$2,919.74"
+"30 August, 2022",West,Stationery,Art Supplies,David Flashing,$53.44,$3.85
+"31 August, 2022",East,Grocery,Fruits and Vegetables,Vincent Herbert,"$4,656.70","$1,718.45"
+"01 September, 2022",Central,Grocery,Fruits and Vegetables,Joseph Cairn,$735.28,$147.86
+"03 September, 2022",Central,Stationery,File Labels,Peter McVee,$33.99,$15.55
+"08 September, 2022",West,Furniture,Lighting,Lela Donovan,$208.48,$40.69
+"08 September, 2022",East,Grocery,Fruits and Vegetables,Thomas Seio,"$1,845.99",$662.23
+"08 September, 2022",West,Stationery,Scissors,Andy Roddick,$271.06,$49.60
+"09 September, 2022",East,Grocery,Fruits and Vegetables,Hallie Redmond,$611.95,$226.56
+"10 September, 2022",East,Furniture,Frames,Dean Jones,$165.99,$22.43
+"11 September, 2022",East,Stationery,Air Purifiers,Lazar Mathew,$179.06,$44.42
+"14 September, 2022",East,Stationery,Art Supplies,Rozario Diego,$26.12,$4.64
+"14 September, 2022",East,Furniture,Office Chairs,Mike Ballack,"$8,999.43","$3,313.64"
+"15 September, 2022",East,Grocery,Fruits and Vegetables,Steven Gerrard,$238.94,$85.91
+"20 September, 2022",East,Stationery,Paper Clips,Catherine Rose,$42.26,$8.57
+"20 September, 2022",West,Grocery,Fruits and Vegetables,Augustine Paul,"$4,202.36","$1,663.63"
+"24 September, 2022",West,Grocery,Meat,Carl Lewis,$703.49,$237.60
+"25 September, 2022",East,Stationery,Copy Paper,David Boon,$780.70,$304.62
+"28 September, 2022",West,Stationery,Art Supplies,Lela Donovan,$179.11,$13.48
+"29 September, 2022",Central,Stationery,Computer Paper,Andy Flower,"$1,863.72","$1,013.13"
+"26 October, 2022",East,Stationery,Art Supplies,Michael Moore,$5.53,$0.47
+"29 October, 2022",West,Grocery,Fruits and Vegetables,Rhino Augustus,"$8,738.10","$3,429.12"
+"30 October, 2022",West,Stationery,Copy Paper,Roger Terrence,$778.93,$101.07
+"31 October, 2022",East,Stationery,Computer Paper,Victor Price,"$1,223.16",$641.20
+"01 November, 2022",East,Stationery,Art Supplies,Pete Zachriah,$19.29,$0.18
+"05 November, 2022",Central,Grocery,Meat,Lela Donovan,"$6,457.26","$3,017.56"
+"05 November, 2022",East,Stationery,Computer Paper,Munaf Patel,$487.00,$261.71
+"05 November, 2022",East,Grocery,Fruits and Vegetables,Mike Ballack,"$2,687.52",$808.69
+"07 November, 2022",Central,Stationery,Art Supplies,Harold Pawlan,$14.53,$1.58
+"11 November, 2022",East,Stationery,File Labels,Paul Adams,$33.31,$24.24
+"12 November, 2022",West,Stationery,Portable Storage,Jason Gross,$707.86,$207.90
+"14 November, 2022",Central,Stationery,Computer Paper,Mike Ballack,"$1,119.80",$609.77
+"15 November, 2022",West,Grocery,Fruits and Vegetables,Rhino Augustus,"$4,117.50","$1,752.33"
+"16 November, 2022",East,Stationery,Art Supplies,Joseph Cairn,$911.25,$234.21
+"19 November, 2022",East,Grocery,Meat,Steven Gerrard,"$4,654.70","$2,221.74"
+"20 November, 2022",East,Furniture,Frames,Joseph Cairn,"$7,451.49","$4,532.17"
+"21 November, 2022",East,Stationery,Art Supplies,Augustine Paul,$183.63,$18.00
+"22 November, 2022",East,Stationery,Standard Labels,David Flashing,$573.15,$336.39
+"04 November, 2022",West,Grocery,Fruits and Vegetables,Hallie Redmond,"$3,632.14","$1,252.70"
+"09 November, 2022",Central,Stationery,Computer Paper,Mary Elizabeth,$410.16,$187.47
+"10 November, 2022",Central,Stationery,File Labels,Olvera Toch,$49.96,$27.28
+"13 November, 2022",East,Stationery,Computer Paper,Neil Seth,"$2,748.87","$1,149.33"
+"14 November, 2022",East,Stationery,Portable Storage,Venus Powell,$99.17,$4.04
+"15 November, 2022",Central,Stationery,Standard Labels,Mike Ballack,$111.41,$52.44
+"17 November, 2022",Central,Furniture,Office Chairs,Shui Tom,"$1,684.18",$679.04
+"22 November, 2022",West,Stationery,Copy Paper,Paul Adams,$21.07,$12.85
+"23 November, 2022",East,Stationery,Computer Paper,Steve Waugh,$159.11,$31.82
+"25 November, 2022",Central,Grocery,Fruits and Vegetables,Harold Pawlan,$740.48,$227.56
+"26 November, 2022",East,Grocery,Fruits and Vegetables,Hilary Holden,"$3,918.43","$1,249.18"
+"30 November, 2022",East,Stationery,Computer Paper,Catherine Rose,"$1,143.51",$549.68
+"30 November, 2022",East,Stationery,Round Ring Binders,Joseph Aaron,$14.58,$4.86
+"05 December, 2022",East,Stationery,Binding Supplies,Wu Chang,"$1,067.31",$214.58
+"07 December, 2022",West,Stationery,Art Supplies,Jency Johnah,$140.69,$4.08
+"09 December, 2022",East,Grocery,Meat,Patrick O'Brill,"$3,600.91","$1,718.08"
+"09 December, 2022",East,Grocery,Fruits and Vegetables,Vincent Herbert,$491.09,$192.70
+"10 December, 2022",West,Stationery,Art Supplies,John Britto,$483.93,$83.16
+"10 December, 2022",West,Furniture,Office Chairs,Joseph Aaron,"$8,955.34","$2,723.44"
+"16 December, 2022",East,Furniture,Clocks,Pete Zachriah,$568.19,$213.33
+"23 December, 2022",East,Stationery,Computer Paper,Mathew Reese,"$1,052.07",$392.90
+"25 December, 2022",East,Stationery,Writings Pads,Grace Kelly,$6.97,$3.07
+"26 December, 2022",West,Grocery,Fruits and Vegetables,Olvera Toch,"$1,535.33",$121.15
+"27 December, 2022",West,Stationery,Art Supplies,Mike Ballack,$13.29,$5.88
+"29 December, 2022",West,Stationery,Colored Envelopes,Rick Reed,$35.66,$0.21
+"31 December, 2022",East,Grocery,Fruits and Vegetables,Sheri Gordon,"$6,136.45","$2,280.67"
+"01 January, 2023",East,Stationery,Computer Paper,Steve Harminson,$490.29,$164.79
+"02 January, 2023",East,Furniture,Office Chairs,Peter McVee,"$2,163.44",$785.07
+"05 December, 2022",East,Stationery,File Labels,Tina Thomas,$55.15,$16.64
+"10 December, 2022",East,Grocery,Fruits and Vegetables,Joseph Cairn,"$3,564.84","$1,335.19"
+"13 December, 2022",West,Grocery,Fruits and Vegetables,Steve Harminson,"$5,021.86","$1,513.71"
+"13 December, 2022",Central,Stationery,Standard Labels,Hilary Holden,$167.27,$64.64
+"15 December, 2022",West,Grocery,Fruits and Vegetables,Steven Roelle,"$4,873.22","$1,671.37"
+"18 December, 2022",East,Stationery,File Labels,Mary Elizabeth,$362.11,$193.43
+"20 December, 2022",East,Stationery,Computer Paper,Mike Ballack,$894.07,$79.42
+"23 December, 2022",East,Grocery,Fruits and Vegetables,Joseph Aaron,"$1,218.66",$463.90
+"23 December, 2022",West,Furniture,End Tables,Olvera Toch,"$8,239.08",$584.34
+"26 December, 2022",West,Stationery,Computer Paper,Steffi Graf,$831.40,$419.07
+"27 December, 2022",East,Stationery,Heavy Duty Binders,Benjamin Ross,$363.61,$44.00
+"30 December, 2022",Central,Stationery,Air Purifiers,Neil Seth,$728.38,$206.65
+"31 December, 2022",Central,Stationery,Air Purifiers,John Britto,$218.55,$4.82
+"01 January, 2023",East,Grocery,Fruits and Vegetables,Steve Harminson,$968.57,$347.06
+"09 February, 2023",East,Furniture,Frames,Augustine Paul,$356.83,$41.10
+"10 February, 2023",East,Grocery,Fruits and Vegetables,Augustine Paul,"$1,652.16",$346.69
+"11 February, 2023",East,Stationery,Paper Clips,Steffi Graf,$50.18,$6.30
+"13 February, 2023",West,Grocery,Cereals,Mathew Reese,$334.23,$147.09
+"15 February, 2023",East,Grocery,Fruits and Vegetables,Michael Angelo,$973.17,$522.43
+"18 February, 2023",East,Grocery,Meat,John Britto,"$1,896.28",$856.42
+"19 February, 2023",Central,Stationery,Pencils,Neil Seth,$22.87,$8.24
+"20 February, 2023",East,Grocery,Cereals,Olvera Toch,$315.90,$120.89
+"20 February, 2023",East,Stationery,Standard Labels,Ian Fleming,$36.36,$16.37
+"21 February, 2023",West,Grocery,Fruits and Vegetables,Joseph Aaron,"$4,010.35","$1,098.95"
+"22 February, 2023",West,Grocery,Meat,Paul Adams,$384.63,$72.41
+"26 February, 2023",East,Stationery,Art Supplies,Munaf Patel,$41.50,$2.35
+"27 February, 2023",Central,Stationery,Round Ring Binders,Catherine Jordan,$114.96,$30.69
+"01 March, 2023",Central,Grocery,Meat,Vincent Herbert,"$1,229.77",$24.31
+"03 March, 2023",Central,Stationery,Computer Paper,Roger Terrence,"$1,998.11","$1,109.89"
+"05 March, 2023",Central,Grocery,Fruits and Vegetables,Jim Courier,"$8,800.51","$2,853.41"
+"10 March, 2023",East,Grocery,Meat,Augustine Paul,$362.44,$0.33
+"13 March, 2023",East,Grocery,Fruits and Vegetables,Leena Mary,"$1,690.38",$645.69
+"17 March, 2023",East,Grocery,Fruits and Vegetables,Munaf Patel,"$1,965.44",$714.55
+"17 March, 2023",East,Stationery,Art Supplies,Munaf Patel,$100.81,$2.75
+"19 March, 2023",Central,Grocery,Fruits and Vegetables,Thomas Mondrake,"$4,093.80","$1,408.27"
+"21 March, 2023",East,Grocery,Fruits and Vegetables,Wu Chang,$847.20,$465.81
+"22 March, 2023",East,Stationery,Art Supplies,Richard Agassi,$99.66,$3.08
+"25 March, 2023",East,Grocery,Fruits and Vegetables,Peter McVee,"$9,393.00","$4,037.14"
+"27 March, 2023",Central,Grocery,Fruits and Vegetables,Dean Jones,"$1,361.44",$405.88
+"28 March, 2023",East,Stationery,File Labels,Olvera Toch,$133.49,$63.67
+"29 March, 2023",West,Grocery,Fruits and Vegetables,Patrick O'Brill,"$3,842.67","$1,383.98"
+"01 April, 2023",East,Grocery,Fruits and Vegetables,Maurice Satty,"$1,188.94",$243.55
+"02 April, 2023",Central,Grocery,Fruits and Vegetables,Lance Willis,"$1,887.12",$222.08
+"04 April, 2023",East,Grocery,Fruits and Vegetables,Lela Donovan,"$1,188.59",$380.95
+"11 April, 2023",East,Stationery,Art Supplies,Mary Zewe,$48.93,$8.58
+"15 April, 2023",East,Stationery,Computer Paper,Michael Moore,"$1,680.31",$852.71
+"18 April, 2023",West,Grocery,Fruits and Vegetables,Maxwell Schwartz,"$5,084.34","$1,804.98"
+"18 April, 2023",West,Grocery,Fruits and Vegetables,Joseph Aaron,"$1,717.36",$944.80
+"21 April, 2023",West,Grocery,Fruits and Vegetables,Susan Juliet,"$2,159.20",$568.21
+"22 April, 2023",Central,Stationery,Computer Paper,Vincent Herbert,"$2,048.30","$1,037.83"
+"24 April, 2023",Central,Stationery,Writings Pads,Mathew Reese,$184.05,$65.96
+"27 April, 2023",East,Grocery,Fruits and Vegetables,Thomas Seio,"$1,803.74",$663.95
+"30 April, 2023",East,Stationery,Copy Paper,Mike Ballack,$87.47,$9.99
+"04 May, 2023",East,Stationery,Paper Clips,Michael Moore,$86.33,$14.80
+"06 May, 2023",West,Grocery,Fruits and Vegetables,Thomas Seio,"$8,209.94","$3,071.37"
+"08 May, 2023",Central,Grocery,Fruits and Vegetables,Catherine Rose,"$1,523.22",$435.46
+"09 May, 2023",East,Stationery,Computer Paper,Benjamin Ross,$964.11,$573.11
+"10 May, 2023",East,Grocery,Cereals,Mary Zewe,$166.64,$86.35
+"11 May, 2023",East,Grocery,Fruits and Vegetables,Lazar Mathew,"$6,589.07","$2,716.58"
+"12 May, 2023",Central,Grocery,Fruits and Vegetables,Steven Roelle,"$3,470.75","$1,300.53"
+"16 May, 2023",East,Grocery,Fruits and Vegetables,Catherine Jordan,"$2,096.44","$1,346.72"
+"17 May, 2023",West,Stationery,Storage Cabinets,Rick Reed,"$2,939.52",$270.08
+"24 May, 2023",West,Stationery,Computer Paper,Mathew Reese,"$2,330.29",$585.70
+"28 May, 2023",East,Grocery,Fruits and Vegetables,Vincent Herbert,$668.82,$182.98
+"30 May, 2023",East,Stationery,Computer Paper,Immaculate Anita,$405.88,$87.65
+"31 May, 2023",East,Stationery,Copy Paper,Augustine Paul,$141.32,$10.06
+"01 June, 2023",East,Stationery,Copy Paper,David Flashing,$524.67,$179.84
+"03 June, 2023",West,Grocery,Meat,Rhino Augustus,$280.88,$38.42
+"04 June, 2023",East,Grocery,Fruits and Vegetables,John Britto,$276.59,$116.37
+"05 June, 2023",East,Stationery,Round Ring Binders,Steffi Graf,$150.61,$30.69
+"07 June, 2023",East,Grocery,Fruits and Vegetables,Rozario Diego,"$4,605.69","$1,570.80"
+"09 June, 2023",East,Grocery,Fruits and Vegetables,Pete Zachriah,$754.30,$300.48
+"13 June, 2023",West,Grocery,Fruits and Vegetables,Lazar Mathew,$503.82,$190.95
+"15 June, 2023",East,Furniture,Metal Bookcases,Mary Elizabeth,"$3,524.93",$127.86
+"19 June, 2023",East,Grocery,Fruits and Vegetables,Tina Thomas,"$3,474.17","$1,093.84"
+"21 June, 2023",East,Stationery,Computer Paper,Catherine Rose,$572.07,$238.04
+"21 June, 2023",East,Grocery,Meat,Venu Karthik,"$2,103.63",$876.85
+"24 June, 2023",East,Grocery,Fruits and Vegetables,Stephanie Ulpright,"$3,757.05","$1,410.87"
+"26 June, 2023",East,Stationery,Art Supplies,Michael Nathan,$64.62,$13.88
+"26 June, 2023",Central,Grocery,Spices,Shui Tom,"$11,751.55","$6,365.29"
+"28 June, 2023",West,Stationery,Paper Clips,David Flashing,$16.38,$2.66
+"28 June, 2023",West,Grocery,Fruits and Vegetables,Peter Brian,$908.01,$84.46
+"29 June, 2023",West,Stationery,Computer Paper,Hilary Holden,$96.85,$30.17
+"29 June, 2023",West,Grocery,Fruits and Vegetables,Nathan Astle,$924.53,$493.02
+"02 July, 2023",East,Grocery,Fruits and Vegetables,Maxwell Schwartz,"$5,569.84","$2,207.74"
+"06 July, 2023",East,Stationery,Air Purifiers,Barbara Fisher,"$2,195.88",$916.68
+"08 July, 2023",East,Stationery,Air Purifiers,Rozario Diego,$716.12,$143.90
+"26 July, 2023",East,Grocery,Meat,Rozario Diego,"$2,302.42","$1,067.59"
+"27 July, 2023",East,Grocery,Cakes,Lazar Mathew,$898.31,$271.39
+"31 July, 2023",Central,Grocery,Fruits and Vegetables,Pete Zachriah,"$6,789.43","$2,744.49"
+"01 August, 2023",West,Grocery,Fruits and Vegetables,Steffi Graf,"$3,221.68","$1,072.81"
+"01 August, 2023",West,Grocery,Meat,Harold Pawlan,$574.22,$239.64
+"01 August, 2023",East,Stationery,Art Supplies,David Love,$118.66,$21.52
+"06 August, 2023",West,Grocery,Bread,Roger Terrence,"$1,502.07",$562.17
+"07 August, 2023",Central,Grocery,Beverages,Thomas Mondrake,$558.05,$176.56
+"09 August, 2023",West,Furniture,Meeting Room Tables,Augustine Paul,"$8,306.20",$817.64
+"09 August, 2023",East,Furniture,Frames,Munaf Patel,$141.06,$59.23
+"13 August, 2023",East,Stationery,Business Envelopes,Tina Thomas,$923.93,$548.37
+"14 August, 2023",East,Furniture,Office Chairs,Santa Cruz Clara,$310.39,$100.89
+"15 August, 2023",East,Grocery,Cereals,Steffi Graf,$678.39,$356.30
+"17 August, 2023",East,Grocery,Spices,Tina Thomas,"$1,126.87",$601.38
+"20 August, 2023",East,Furniture,Clocks,Michael Moore,$700.43,$217.82
+"22 August, 2023",West,Stationery,Copy Paper,Steven Gerrard,$78.71,$1.38
+"23 August, 2023",West,Stationery,Surge Protectors,Mary Elizabeth,$228.60,$57.21
+"27 August, 2023",East,Stationery,Pencils,Tina Thomas,$31.39,$1.35
+"28 August, 2023",East,Stationery,Standard Labels,Joseph Cairn,$23.12,$9.80
+"31 August, 2023",East,Grocery,Fruits and Vegetables,Vincent Herbert,"$4,656.70","$1,718.45"
+"02 September, 2023",Central,Grocery,Fruits and Vegetables,Michael Nathan,"$1,055.11",$64.48
+"06 September, 2023",East,Grocery,Cereals,Mathew Reese,$297.34,$134.94
+"08 September, 2023",West,Stationery,Computer Paper,Lela Donovan,$50.74,$25.73
+"08 September, 2023",West,Grocery,Fruits and Vegetables,Andy Roddick,"$2,561.05",$703.61
+"09 September, 2023",West,Grocery,Bread,John Britto,"$1,634.64",$265.15
+"09 September, 2023",East,Grocery,Fruits and Vegetables,Augustine Paul,"$2,689.45","$1,011.67"
+"11 September, 2023",East,Stationery,Air Purifiers,Lazar Mathew,$179.06,$44.42
+"14 September, 2023",East,Stationery,Art Supplies,Rozario Diego,$26.12,$4.64
+"15 September, 2023",West,Stationery,Copy Paper,Peter Brian,$254.13,$25.95
+"15 September, 2023",East,Grocery,Fruits and Vegetables,Steven Gerrard,$238.94,$85.91
+"18 September, 2023",Central,Stationery,Paper Clips,Jency Johnah,$53.37,$0.97
+"19 September, 2023",Central,Stationery,File Labels,Mary Zewe,$105.87,$42.12
+"19 September, 2023",East,Grocery,Fruits and Vegetables,Dean Jones,"$1,728.58",$564.70
+"20 September, 2023",Central,Grocery,Meat,Patrick O'Brill,"$2,686.55","$1,161.81"
+"22 September, 2023",East,Stationery,Computer Paper,Santa Cruz Clara,$137.43,$56.69
+"24 September, 2023",East,Stationery,Art Supplies,Hallie Redmond,$40.37,$5.36
+"24 September, 2023",West,Stationery,Standard Labels,Catherine Jordan,$299.34,$171.51
+"26 September, 2023",East,Stationery,Copy Paper,David Boon,$780.70,$304.62
+"27 September, 2023",Central,Grocery,Fruits and Vegetables,Lance Willis,$881.36,$318.64
+"27 September, 2023",Central,Stationery,Art Supplies,Shui Tom,$50.16,$9.88
+"27 September, 2023",East,Grocery,Fruits and Vegetables,Augustine Paul,"$3,162.42","$1,201.30"
+"29 September, 2023",East,Stationery,Computer Paper,Maxwell Schwartz,"$1,057.52",$446.81
+"30 September, 2023",Central,Stationery,Pencils,Andy Flower,$364.05,$30.27
+"02 October, 2023",Central,Grocery,Fruits and Vegetables,Benjamin Ross,"$3,726.30","$1,235.66"
+"29 October, 2023",East,Grocery,Fruits and Vegetables,Roger Terrence,"$1,301.65",$336.82
+"30 October, 2023",Central,Grocery,Fruits and Vegetables,Maurice Satty,"$5,372.47","$1,971.63"
+"31 October, 2023",East,Stationery,Art Supplies,Thomas Mondrake,$124.46,$22.26
+"02 November, 2023",Central,Stationery,Computer Paper,Thomas Mondrake,$395.72,$77.49
+"04 November, 2023",West,Stationery,Binding Machines,Helen Magadalene,$141.60,$55.55
+"05 November, 2023",West,Furniture,Clocks,Helen Magadalene,$748.23,$104.46
+"06 November, 2023",Central,Grocery,Fruits and Vegetables,Lela Donovan,$811.00,$82.80
+"06 November, 2023",East,Furniture,Frames,Maxwell Schwartz,$398.29,$7.45
+"07 November, 2023",East,Stationery,File Labels,Patrick O'Brill,$97.79,$39.35
+"08 November, 2023",East,Stationery,Surge Protectors,Steve Harminson,$469.22,$109.30
+"11 November, 2023",West,Stationery,Computer Paper,Joseph Cairn,"$5,628.42","$2,741.70"
+"12 November, 2023",West,Stationery,Surge Protectors,Sheri Gordon,$179.26,$12.34
+"12 November, 2023",East,Stationery,Art Supplies,Immaculate Anita,$122.20,$27.38
+"12 November, 2023",Central,Stationery,Computer Paper,William Brown,"$1,269.38",$603.32
+"14 November, 2023",West,Stationery,Binder Clips,Joseph Aaron,$82.83,$39.15
+"15 November, 2023",Central,Grocery,Baby Food,Mike Ballack,$680.75,$154.24
+"16 November, 2023",West,Stationery,Paper Clips,Rhino Augustus,$206.75,$90.79
+"20 November, 2023",East,Grocery,Meat,Steven Gerrard,"$4,654.70","$2,221.74"
+"20 November, 2023",West,Stationery,Standard Labels,Rhino Augustus,$29.43,$14.21
+"22 November, 2023",West,Grocery,Meat,Jency Johnah,"$2,869.27","$1,260.25"
+"23 November, 2023",East,Grocery,Fruits and Vegetables,David Flashing,"$1,957.12",$564.70
+"24 November, 2023",West,Furniture,Office Chairs,Tina Thomas,"$8,272.75","$2,576.73"
+"05 November, 2023",West,Grocery,Fruits and Vegetables,Hallie Redmond,"$3,632.14","$1,252.70"
+"06 November, 2023",West,Stationery,Portable Storage,Leena Mary,"$1,024.93",$234.55
+"14 November, 2023",Central,Stationery,Round Ring Binders,Dean Jones,$103.19,$31.89
+"16 November, 2023",East,Grocery,Fruits and Vegetables,Maurice Satty,$22.08,$2.16
+"18 November, 2023",West,Stationery,Copy Paper,Shui Tom,"$1,149.79",$367.91
+"20 November, 2023",East,Grocery,Fruits and Vegetables,Joseph Cairn,$189.61,$64.80
+"23 November, 2023",West,Grocery,Fruits and Vegetables,Hallie Redmond,"$3,700.82","$1,295.72"
+"25 November, 2023",East,Stationery,Art Supplies,Thomas Mondrake,$8.57,$1.57
+"30 November, 2023",West,Stationery,Copy Paper,Jency Johnah,"$1,344.94",$49.66
+"02 December, 2023",East,Stationery,Binder Clips,Santa Cruz Clara,$126.66,$48.32
+"03 December, 2023",East,Stationery,Computer Paper,Hallie Redmond,"$1,423.66",$738.46
+"04 December, 2023",West,Stationery,Heavy Duty Binders,David Boon,$217.04,$119.93
+"06 December, 2023",East,Stationery,Art Supplies,Wu Chang,$3.44,$1.04
+"08 December, 2023",West,Stationery,Art Supplies,Jency Johnah,$140.69,$4.08
+"09 December, 2023",East,Grocery,Fruits and Vegetables,Mike Ballack,"$4,222.09","$1,633.48"
+"10 December, 2023",West,Grocery,Fruits and Vegetables,Helen Magadalene,"$5,092.07","$2,035.47"
+"10 December, 2023",East,Stationery,Binding Supplies,Steve Waugh,$965.18,$315.12
+"10 December, 2023",East,Grocery,Fruits and Vegetables,Vincent Herbert,$491.09,$192.70
+"17 December, 2023",East,Furniture,Clocks,Pete Zachriah,$568.19,$213.33
+"18 December, 2023",East,Grocery,Beverages,Vincent Herbert,$385.81,$35.39
+"19 December, 2023",East,Grocery,Fruits and Vegetables,Vincent Herbert,"$1,300.17",$808.54
+"23 December, 2023",West,Grocery,Fruits and Vegetables,William Brown,"$2,818.51",$972.77
+"24 December, 2023",West,Grocery,Fruits and Vegetables,Nathan Astle,"$8,993.00","$3,212.00"
+"25 December, 2023",Central,Grocery,Fruits and Vegetables,Mary Elizabeth,$530.34,$23.29
+"26 December, 2023",East,Stationery,Writings Pads,Grace Kelly,$6.97,$3.07
+"28 December, 2023",West,Stationery,Art Supplies,Mike Ballack,$13.29,$5.88
+"29 December, 2023",Central,Furniture,Frames,Jason Gross,$339.63,$90.78
+"30 December, 2023",East,Stationery,Binding Supplies,Peter McVee,$830.33,$167.09
+"02 January, 2024",East,Grocery,Fruits and Vegetables,Steve Harminson,"$5,036.45","$2,086.04"
+"03 January, 2024",Central,Stationery,Heavy Duty Binders,Steve Harminson,$220.84,$78.12
+"03 December, 2023",Central,Stationery,Cardboard Storage,Rozario Diego,"$8,037.65","$2,708.91"
+"07 December, 2023",East,Grocery,Fruits and Vegetables,Jason Gross,$381.37,$223.76
+"07 December, 2023",East,Grocery,Fruits and Vegetables,Paul Adams,$723.43,$279.05
+"09 December, 2023",East,Stationery,Rubber Bands,Catherine Rose,$12.21,$0.08
+"10 December, 2023",Central,Grocery,Fruits and Vegetables,Thomas Mondrake,$875.26,$17.18
+"11 December, 2023",East,Grocery,Fruits and Vegetables,Joseph Cairn,"$3,564.84","$1,335.19"
+"12 December, 2023",East,Grocery,Fruits and Vegetables,Richard Agassi,"$3,073.06",$838.20
+"14 December, 2023",Central,Stationery,Art Supplies,Lela Donovan,$59.34,$2.03
+"14 December, 2023",Central,Grocery,Fruits and Vegetables,Hilary Holden,"$1,815.05",$784.33
+"16 December, 2023",East,Grocery,Bread,Michael Moore,"$1,256.33",$471.59
+"19 December, 2023",East,Stationery,File Labels,Mary Elizabeth,$362.11,$193.43
+"21 December, 2023",East,Grocery,Beverages,Mike Ballack,"$4,056.49","$2,129.71"
+"22 December, 2023",Central,Stationery,Business Envelopes,Dean Jones,$72.28,$26.15
+"23 December, 2023",East,Stationery,Copy Paper,David Love,$20.93,$13.26
+"24 December, 2023",Central,Grocery,Fruits and Vegetables,Jason Gross,"$8,540.24","$5,192.28"
+"27 December, 2023",West,Stationery,Computer Paper,Steffi Graf,$831.40,$419.07
+"28 December, 2023",East,Stationery,Art Supplies,Benjamin Ross,$26.33,$3.20
+"31 December, 2023",Central,Stationery,Air Purifiers,Neil Seth,$728.38,$206.65
+"01 January, 2024",West,Stationery,Paper Clips,Benjamin Ross,$97.72,$22.86
+"01 January, 2024",East,Stationery,Art Supplies,Jency Johnah,$57.02,$16.54
+"07 February, 2024",East,Stationery,Paper Clips,Venu Karthik,$125.47,$44.74
+"10 February, 2024",East,Stationery,Air Purifiers,Augustine Paul,$257.50,$72.37
+"12 February, 2024",Central,Grocery,Fruits and Vegetables,Pete Zachriah,$282.39,$88.40
+"15 February, 2024",East,Grocery,Meat,Ian Fleming,"$1,131.90",$72.86
+"18 February, 2024",West,Stationery,Computer Paper,Susan Juliet,$386.43,$172.68
+"19 February, 2024",West,Grocery,Fruits and Vegetables,Steven Roelle,$76.28,$28.36
+"19 February, 2024",East,Grocery,Meat,John Britto,"$7,896.28","$3,856.42"
+"21 February, 2024",East,Grocery,Cereals,Olvera Toch,$315.90,$120.89
+"22 February, 2024",East,Stationery,Portable Storage,Steven Gerrard,$65.98,$15.07
+"22 February, 2024",West,Grocery,Fruits and Vegetables,Joseph Aaron,"$4,010.35","$1,098.95"
+"26 February, 2024",East,Grocery,Fruits and Vegetables,Peter McVee,$583.19,$248.86
+"27 February, 2024",East,Stationery,Standard Labels,Immaculate Anita,$129.74,$61.92
+"28 February, 2024",Central,Furniture,Meeting Room Tables,Hallie Redmond,$238.29,$6.24
+"28 February, 2024",West,Grocery,Fruits and Vegetables,John Britto,"$2,367.06",$102.31
+"01 March, 2024",East,Stationery,Art Supplies,Joseph Aaron,$60.93,$4.23
+"01 March, 2024",Central,Stationery,Round Ring Binders,Rozario Diego,$56.87,$24.46
+"03 March, 2024",West,Grocery,Meat,Catherine Rose,"$1,482.06",$176.49
+"04 March, 2024",East,Grocery,Biscuits,Jason Gross,"$3,640.08",$779.93
+"05 March, 2024",Central,Grocery,Meat,Jim Courier,"$1,976.00",$339.64
+"06 March, 2024",West,Stationery,Standard Labels,Lazar Mathew,$121.81,$61.87
+"10 March, 2024",East,Grocery,Meat,Augustine Paul,$362.44,$0.33
+"12 March, 2024",West,Stationery,File Labels,Andy Flower,$108.95,$48.23
+"13 March, 2024",East,Stationery,Paper Clips,Peter Brian,$90.03,$13.25
+"14 March, 2024",Central,Stationery,Computer Paper,Carl Lewis,"$2,514.62",$525.84
+"14 March, 2024",East,Stationery,File Labels,Steffi Graf,$68.75,$29.28
+"16 March, 2024",East,Stationery,File Labels,Lazar Mathew,$208.04,$113.67
+"17 March, 2024",East,Grocery,Fruits and Vegetables,Munaf Patel,"$1,965.44",$714.55
+"18 March, 2024",East,Stationery,Business Envelopes,Maurice Satty,$585.81,$360.47
+"19 March, 2024",Central,Furniture,Meeting Room Tables,Thomas Mondrake,"$1,362.54",$155.08
+"21 March, 2024",East,Stationery,Computer Paper,Wu Chang,"$2,551.08","$1,350.47"
+"22 March, 2024",East,Stationery,Art Supplies,Richard Agassi,$99.66,$3.08
+"22 March, 2024",West,Grocery,Fruits and Vegetables,Catherine Rose,"$8,938.57","$3,526.02"
+"25 March, 2024",West,Stationery,File Labels,William Brown,$231.85,$110.61
+"28 March, 2024",Central,Grocery,Fruits and Vegetables,Mathew Reese,"$2,683.34",$824.24
+"28 March, 2024",Central,Stationery,Heavy Duty Binders,Michael Moore,$210.80,$103.93
+"29 March, 2024",West,Grocery,Fruits and Vegetables,Patrick O'Brill,"$3,842.67","$1,383.98"
+"31 March, 2024",Central,Stationery,Surge Protectors,Steve Harminson,$84.01,$26.63
+"02 April, 2024",East,Stationery,Writings Pads,Florence Joy,$58.48,$7.30
+"02 April, 2024",Central,Grocery,Fruits and Vegetables,Lance Willis,"$1,887.12",$222.08
+"04 April, 2024",East,Furniture,Frames,Pete Zachriah,$405.87,$85.14
+"05 April, 2024",East,Stationery,Binder Clips,Steven Gerrard,$18.25,$4.92
+"05 April, 2024",East,Stationery,Computer Paper,Peter McVee,$531.09,$122.78
+"07 April, 2024",East,Stationery,Portable Storage,Leena Mary,$562.57,$15.51
+"11 April, 2024",West,Grocery,Fruits and Vegetables,Vincent Herbert,"$1,265.60",$528.50
+"11 April, 2024",West,Grocery,Fruits and Vegetables,Mathew Reese,"$3,916.91","$1,231.38"
+"13 April, 2024",East,Grocery,Cereals,Lazar Mathew,$670.46,$357.68
+"15 April, 2024",East,Stationery,Computer Paper,Michael Moore,"$1,680.31",$852.71
+"16 April, 2024",East,Stationery,Computer Paper,Venu Karthik,"$1,761.06","$1,014.00"
+"17 April, 2024",East,Grocery,Meat,Maurice Satty,$604.95,$108.99
+"18 April, 2024",East,Grocery,Fruits and Vegetables,Mary Zewe,"$3,772.53","$1,614.50"
+"19 April, 2024",East,Stationery,Copy Paper,Steven Roelle,$218.67,$67.67
+"20 April, 2024",West,Grocery,Fruits and Vegetables,Helen Magadalene,"$7,538.07","$2,854.46"
+"22 April, 2024",Central,Stationery,Art Supplies,Vincent Herbert,$239.82,$39.71
+"22 April, 2024",West,Furniture,Meeting Room Tables,Leena Mary,$220.76,$49.42
+"24 April, 2024",East,Stationery,Art Supplies,Susan Juliet,$39.64,$3.82
+"26 April, 2024",East,Stationery,Heavy Duty Binders,Roger Terrence,$56.72,$13.22
+"28 April, 2024",West,Grocery,Fruits and Vegetables,John Britto,"$7,772.04","$2,958.80"
+"03 May, 2024",West,Grocery,Fruits and Vegetables,Steffi Graf,$165.01,$99.82
+"04 May, 2024",East,Grocery,Fruits and Vegetables,Mary Zewe,"$6,607.25","$2,390.09"
+"05 May, 2024",Central,Stationery,Art Supplies,Ian Fleming,$37.85,$0.77
+"07 May, 2024",East,Stationery,Copy Paper,Michael Angelo,$13.05,$4.07
+"08 May, 2024",East,Stationery,Business Envelopes,Patrick O'Brill,"$2,756.66","$1,629.98"
+"08 May, 2024",West,Grocery,Fruits and Vegetables,David Flashing,"$3,331.83","$1,179.90"
+"11 May, 2024",East,Grocery,Meat,Lazar Mathew,"$1,407.86",$154.40
+"11 May, 2024",East,Grocery,Biscuits,Ian Fleming,"$3,584.52","$1,161.60"
+"17 May, 2024",East,Stationery,Art Supplies,Florence Joy,$203.58,$34.52
+"17 May, 2024",West,Stationery,Computer Paper,Barbara Fisher,$52.55,$27.99
+"18 May, 2024",East,Grocery,Fruits and Vegetables,Steve Harminson,$406.15,$129.71
+"23 May, 2024",East,Stationery,Computer Paper,David Flashing,$226.55,$63.80
+"24 May, 2024",East,Stationery,Standard Labels,Thomas Seio,$245.62,$130.90
+"28 May, 2024",East,Grocery,Fruits and Vegetables,Vincent Herbert,$668.82,$182.98
+"30 May, 2024",East,Stationery,Binder Clips,Immaculate Anita,$21.97,$7.40
+"30 May, 2024",West,Stationery,Binding Supplies,Augustine Paul,$432.50,$57.56
+"30 May, 2024",West,Grocery,Fruits and Vegetables,David Love,"$1,643.36",$548.54
+"31 May, 2024",West,Stationery,Pins and Tacks,Helen Magadalene,$6.02,$0.83
+"01 June, 2024",East,Grocery,Fruits and Vegetables,Michael Nathan,"$1,943.83",$709.05
+"01 June, 2024",Central,Grocery,Biscuits,John Britto,"$2,967.18",$615.50
+"03 June, 2024",West,Grocery,Fruits and Vegetables,Rhino Augustus,"$5,521.04","$2,405.20"
+"04 June, 2024",East,Grocery,Fruits and Vegetables,Immaculate Anita,$441.39,$216.02
+"05 June, 2024",Central,Stationery,Copy Paper,Nathan Astle,$19.31,$1.34
+"06 June, 2024",Central,Furniture,Office Chairs,Catherine Rose,"$1,787.63",$627.41
+"07 June, 2024",East,Grocery,Cereals,Rozario Diego,$736.06,$383.30
+"08 June, 2024",East,Stationery,Computer Paper,Dean Jones,$325.61,$115.94
+"09 June, 2024",Central,Stationery,Computer Paper,Joseph Cairn,$754.10,$264.02
+"10 June, 2024",West,Stationery,File Labels,Roger Terrence,$77.47,$33.20
+"12 June, 2024",West,Grocery,Fruits and Vegetables,Carl Lewis,"$2,318.74","$1,150.17"
+"13 June, 2024",East,Grocery,Fruits and Vegetables,Venus Powell,"$1,519.57",$490.38
+"15 June, 2024",East,Stationery,Colored Envelopes,Florence Joy,$206.44,$55.83
+"15 June, 2024",East,Grocery,Cereals,Harold Pawlan,$613.62,$267.88
+"20 June, 2024",Central,Stationery,Art Supplies,Pete Zachriah,$334.65,$22.40
+"21 June, 2024",East,Grocery,Meat,Venu Karthik,"$2,103.63",$876.85
+"23 June, 2024",East,Grocery,Fruits and Vegetables,Helen Magadalene,"$8,076.90","$2,919.97"
+"25 June, 2024",Central,Stationery,File Labels,Rhino Augustus,$132.23,$60.81
+"26 June, 2024",West,Grocery,Cereals,Augustine Paul,$413.39,$226.04
+"26 June, 2024",Central,Grocery,Spices,Shui Tom,"$8,751.55","$3,965.29"
+"26 June, 2024",East,Furniture,Frames,Michael Nathan,$288.92,$3.64
+"26 June, 2024",East,Stationery,Computer Paper,Grace Kelly,$833.43,$485.87
+"28 June, 2024",West,Stationery,Paper Clips,David Flashing,$16.38,$2.66
+"28 June, 2024",West,Grocery,Fruits and Vegetables,Peter Brian,$908.01,$84.46
+"29 June, 2024",West,Stationery,Computer Paper,Hilary Holden,$96.85,$30.17
+"29 June, 2024",West,Furniture,Clocks,Shui Tom,"$4,000.64","$1,234.86"
+"02 July, 2024",East,Grocery,Fruits and Vegetables,Victor Price,$176.97,$80.40
+"07 July, 2024",East,Grocery,Fruits and Vegetables,Steve Waugh,"$1,092.48",$657.71
+"08 July, 2024",East,Stationery,Colored Envelopes,Hilary Holden,$150.31,$46.64
+"10 July, 2024",Central,Stationery,Computer Paper,Barbara Fisher,"$1,233.29",$692.59
+"11 July, 2024",East,Stationery,File Labels,David Flashing,$127.98,$74.75
+"13 July, 2024",Central,Stationery,Portable Storage,Rhino Augustus,$923.30,$120.98
+"14 July, 2024",West,Stationery,Portable Storage,Florence Joy,$509.35,$156.98
+"16 July, 2024",Central,Furniture,Frames,Maxwell Schwartz,$548.61,$10.73
+"24 July, 2024",East,Furniture,Meeting Room Tables,Jency Johnah,"$9,288.95",$633.23
+"25 July, 2024",West,Stationery,Standard Labels,Augustine Paul,$378.74,$231.42
+"26 July, 2024",West,Grocery,Meat,Lela Donovan,"$6,164.77","$2,225.50"
+"03 August, 2024",West,Grocery,Fruits and Vegetables,Michael Nathan,"$2,969.55",$877.34
+"04 August, 2024",West,Grocery,Fruits and Vegetables,Shui Tom,"$4,218.38","$1,726.90"
+"05 August, 2024",East,Grocery,Fruits and Vegetables,Venu Karthik,"$1,284.86",$471.47
+"06 August, 2024",West,Stationery,Writings Pads,Harold Pawlan,$524.10,$285.19
+"08 August, 2024",West,Stationery,Computer Paper,Mary Elizabeth,$670.79,$240.31
+"11 August, 2024",East,Stationery,Round Ring Binders,Benjamin Ross,$29.19,$9.74
+"13 August, 2024",East,Grocery,Fruits and Vegetables,Barbara Fisher,$137.72,$47.04
+"17 August, 2024",East,Stationery,Writings Pads,Maxwell Schwartz,$84.67,$23.59
+"17 August, 2024",East,Grocery,Fruits and Vegetables,John Britto,"$7,707.28","$2,724.32"
+"19 August, 2024",East,Stationery,Paper Clips,Catherine Rose,$166.13,$10.26
+"23 August, 2024",East,Stationery,Heavy Duty Binders,Maxwell Schwartz,"$1,306.17",$691.56
+"24 August, 2024",Central,Grocery,Fruits and Vegetables,Ian Fleming,"$4,762.92","$2,175.58"
+"27 August, 2024",East,Stationery,Pencils,David Boon,"$1,263.27",$613.25
+"27 August, 2024",West,Grocery,Fruits and Vegetables,Steffi Graf,"$3,348.45","$1,419.73"
+"28 August, 2024",Central,Grocery,Fruits and Vegetables,Nathan Astle,$788.48,$208.44
+"29 August, 2024",West,Grocery,Fruits and Vegetables,Hilary Holden,"$3,113.87","$1,212.94"
+"01 September, 2024",East,Stationery,Binder Clips,Stephanie Ulpright,$19.62,$1.81
+"04 September, 2024",Central,Stationery,Art Supplies,Nathan Astle,$37.74,$7.67
+"05 September, 2024",East,Grocery,Fruits and Vegetables,Michael Angelo,"$4,642.41","$1,483.56"
+"07 September, 2024",Central,Grocery,Fruits and Vegetables,Benjamin Ross,$850.71,$259.46
+"08 September, 2024",Central,Stationery,Copy Paper,Mike Ballack,$338.52,$100.48
+"10 September, 2024",East,Grocery,Fruits and Vegetables,Maurice Satty,$985.34,$338.91
+"15 September, 2024",East,Stationery,Computer Paper,Rozario Diego,"$3,641.92","$1,304.14"
+"17 September, 2024",West,Grocery,Fruits and Vegetables,Hilary Holden,"$1,370.99",$441.44
+"20 September, 2024",East,Grocery,Fruits and Vegetables,Mary Elizabeth,"$2,881.19","$1,096.83"
+"21 September, 2024",East,Stationery,Art Supplies,John Elliot,"$6,081.12","$3,034.31"
+"22 September, 2024",West,Grocery,Fruits and Vegetables,David Flashing,"$1,006.90",$415.02
+"25 September, 2024",Central,Furniture,Office Chairs,Leena Mary,"$2,287.45",$1.06
+"28 September, 2024",Central,Grocery,Fruits and Vegetables,Joseph Airdo,$986.25,$371.58
+"30 September, 2024",West,Stationery,Scissors,Richard Agassi,"$1,127.56",$327.16
+"24 October, 2024",East,Stationery,Binder Clips,Mathew Reese,$911.20,$417.89
+"25 October, 2024",East,Grocery,Fruits and Vegetables,Jim Courier,$718.86,$412.39
+"26 October, 2024",Central,Grocery,Fruits and Vegetables,Nathan Astle,"$2,563.77",$950.25
+"26 October, 2024",Central,Grocery,Fruits and Vegetables,Catherine Jordan,"$4,145.68","$1,617.80"
+"31 October, 2024",Central,Stationery,Paper Clips,Nathan Astle,$22.45,$6.00
+"02 November, 2024",East,Stationery,Writings Pads,Paul Adams,"$1,345.69",$773.31
+"04 November, 2024",East,Stationery,Computer Paper,Grace Kelly,"$1,139.51",$656.12
+"04 November, 2024",West,Stationery,Art Supplies,Augustine Paul,"$6,043.03","$2,916.92"
+"11 November, 2024",West,Stationery,Art Supplies,Patrick O'Brill,$124.47,$24.55
+"12 November, 2024",East,Grocery,Fruits and Vegetables,Pete Zachriah,"$7,836.20","$3,102.38"
+"14 November, 2024",East,Grocery,Fruits and Vegetables,Catherine Rose,"$1,852.11",$826.52
+"21 November, 2024",East,Stationery,Copy Paper,Steven Gerrard,$32.72,$2.03
+"05 November, 2024",Central,Grocery,Cereals,Michael Moore,$4.08,$1.05
+"07 November, 2024",East,Stationery,Paper Clips,Hallie Redmond,$71.32,$12.68
+"08 November, 2024",East,Stationery,Round Ring Binders,Wu Chang,$144.97,$18.63
+"08 November, 2024",East,Grocery,Cereals,Olvera Toch,"$3,513.26","$1,231.89"
+"11 November, 2024",East,Stationery,Copy Paper,Pete Zachriah,"$5,315.42","$3,420.70"
+"12 November, 2024",Central,Grocery,Fruits and Vegetables,Mathew Reese,"$4,794.07","$1,850.13"
+"13 November, 2024",East,Stationery,Computer Paper,Leena Mary,"$4,709.91","$2,389.52"
+"15 November, 2024",Central,Grocery,Fruits and Vegetables,Thomas Mondrake,"$4,748.69","$1,725.72"
+"26 November, 2024",Central,Stationery,Standard Labels,Ian Fleming,$50.51,$25.53
+"28 November, 2024",Central,Grocery,Fruits and Vegetables,Dean Jones,"$2,626.35",$886.12
+"30 November, 2024",West,Grocery,Meat,Angelus Mathew,"$1,901.35",$807.52
+"02 December, 2024",East,Grocery,Fruits and Vegetables,Rozario Diego,$168.87,$17.61
+"03 December, 2024",East,Grocery,Fruits and Vegetables,Andy Roddick,"$6,298.87","$2,304.16"
+"03 December, 2024",West,Stationery,Computer Paper,Angelus Mathew,$201.59,$34.54
+"05 December, 2024",Central,Grocery,Fruits and Vegetables,Benjamin Ross,"$4,036.79","$1,064.73"
+"07 December, 2024",Central,Stationery,Heavy Duty Binders,Venus Powell,"$1,444.41",$784.83
+"07 December, 2024",Central,Stationery,Standard Labels,Rhino Augustus,$47.37,$24.54
+"12 December, 2024",Central,Grocery,Fruits and Vegetables,Augustine Paul,"$1,413.33",$450.50
+"14 December, 2024",West,Stationery,Binding Supplies,Lela Donovan,$274.05,$16.77
+"15 December, 2024",East,Stationery,Art Supplies,Neil Seth,$293.95,$87.71
+"19 December, 2024",Central,Grocery,Fruits and Vegetables,Rick Reed,$411.34,$166.01
+"20 December, 2024",Central,Grocery,Fruits and Vegetables,Catherine Rose,"$6,171.62","$2,110.42"
+"20 December, 2024",West,Grocery,Fruits and Vegetables,Peter McVee,"$1,607.30",$590.42
+"21 December, 2024",Central,Grocery,Fruits and Vegetables,Harold Pawlan,"$2,843.78",$899.24
+"23 December, 2024",Central,Grocery,Fruits and Vegetables,Rhino Augustus,"$4,060.39","$1,727.50"
+"27 December, 2024",East,Grocery,Fruits and Vegetables,David Boon,"$2,509.80",$913.50
+"28 December, 2024",East,Grocery,Fruits and Vegetables,Maxwell Schwartz,$744.37,$278.84
+"29 December, 2024",Central,Stationery,Binding Supplies,Helen Magadalene,"$1,697.21",$479.02
+"30 December, 2024",Central,Grocery,Fruits and Vegetables,Joseph Cairn,"$6,052.79","$2,375.32"
+"31 December, 2024",East,Stationery,Scissors,Munaf Patel,$692.69,$137.37
+"02 January, 2025",Central,Grocery,Fruits and Vegetables,Richard Agassi,"$1,964.73",$789.11
+"04 January, 2025",West,Stationery,Art Supplies,Carl Lewis,"$4,599.39","$2,345.11"
+"03 December, 2024",Central,Stationery,Colored Envelopes,Rozario Diego,$105.98,$28.08
+"06 December, 2024",East,Stationery,File Labels,Olvera Toch,$208.53,$86.30
+"06 December, 2024",West,Stationery,Binder Clips,Joseph Cairn,$926.11,$347.89
+"08 December, 2024",West,Stationery,Art Supplies,Dean Jones,"$6,153.39","$3,459.20"
+"11 December, 2024",Central,Grocery,Meat,Dean Jones,$901.09,$126.85
+"12 December, 2024",Central,Stationery,Standard Labels,Andy Flower,$143.00,$80.72
+"14 December, 2024",East,Grocery,Fruits and Vegetables,Michael Moore,$497.91,$190.57
+"14 December, 2024",Central,Grocery,Fruits and Vegetables,Carl Lewis,"$5,560.56","$2,079.55"
+"15 December, 2024",Central,Stationery,Art Supplies,Mathew Reese,$70.68,$4.63
+"23 December, 2024",Central,Grocery,Meat,Joseph Cairn,$93.24,$9.14
+"26 December, 2024",West,Stationery,File Labels,Rhino Augustus,$67.45,$29.50
+"28 December, 2024",East,Stationery,Art Supplies,Dean Jones,$26.36,$1.08
+"08 February, 2025",West,Stationery,Art Supplies,Sheri Gordon,$103.20,$26.45
+"09 February, 2025",Central,Grocery,Fruits and Vegetables,Steffi Graf,"$3,992.47","$1,348.95"
+"11 February, 2025",East,Stationery,Binder Clips,Thomas Mondrake,$125.21,$43.23
+"11 February, 2025",East,Stationery,Air Purifiers,Andy Roddick,$21.45,$7.20
+"15 February, 2025",Central,Stationery,Copy Paper,Rozario Diego,$75.81,$24.55
+"15 February, 2025",Central,Grocery,Fruits and Vegetables,Joseph Airdo,"$1,377.92",$540.63
+"16 February, 2025",East,Stationery,Standard Labels,Susan Juliet,$32.03,$13.71
+"17 February, 2025",Central,Stationery,Computer Paper,Neil Seth,"$2,194.63",$994.40
+"19 February, 2025",East,Grocery,Fruits and Vegetables,Michael Angelo,"$5,531.40","$2,306.51"
+"19 February, 2025",Central,Grocery,Meat,Andy Roddick,"$9,173.73","$6,232.57"
+"21 February, 2025",Central,Grocery,Fruits and Vegetables,Shui Tom,"$5,196.06","$1,913.74"
+"21 February, 2025",Central,Stationery,Fruits and Vegetables,Mike Ballack,"$3,255.08","$1,271.00"
+"26 February, 2025",West,Stationery,Fruits and Vegetables,Hilary Holden,"$2,788.74",$889.98
+"26 February, 2025",East,Grocery,Fruits and Vegetables,Rozario Diego,$432.97,$131.03
+"27 February, 2025",West,Stationery,Air Purifiers,Steffi Graf,$594.19,$156.61
+"05 March, 2025",East,Grocery,Fruits and Vegetables,Immaculate Anita,"$4,015.30","$1,460.22"
+"09 March, 2025",West,Stationery,File Labels,Joseph Aaron,$101.25,$48.40
+"11 March, 2025",East,Stationery,Art Supplies,Susan Juliet,$51.08,$3.44
+"12 March, 2025",East,Stationery,Binding Supplies,Michael Nathan,$390.83,$113.72
+"12 March, 2025",Central,Grocery,Meat,Joseph Cairn,"$5,984.24","$2,464.31"
+"15 March, 2025",Central,Furniture,Office Chairs,Mary Zewe,"$8,498.72","$3,089.96"
+"15 March, 2025",Central,Grocery,Fruits and Vegetables,Lela Donovan,"$1,723.28","$1,253.57"
+"16 March, 2025",Central,Stationery,Fruits and Vegetables,David Love,"$1,464.68","$1,054.72"
+"16 March, 2025",East,Furniture,Meeting Room Tables,Victor Price,"$5,224.50","$3,040.60"
+"17 March, 2025",Central,Stationery,Round Ring Binders,David Flashing,"$1,190.80",$648.22
+"18 March, 2025",East,Stationery,Copy Paper,Mary Elizabeth,$821.44,$413.38
+"19 March, 2025",Central,Stationery,Standard Labels,Maxwell Schwartz,$157.34,$73.64
+"19 March, 2025",East,Stationery,Binding Supplies,Roger Terrence,$341.71,$59.83
+"23 March, 2025",West,Stationery,Fruits and Vegetables,Neil Seth,"$3,316.16","$1,298.73"
+"27 March, 2025",Central,Grocery,Fruits and Vegetables,Dean Jones,"$1,361.44",$405.88
+"28 March, 2025",East,Stationery,File Labels,Olvera Toch,$133.49,$63.67
+"29 March, 2025",West,Grocery,Fruits and Vegetables,Patrick O'Brill,"$3,842.67","$1,383.98"
+"01 April, 2025",East,Grocery,Fruits and Vegetables,Maurice Satty,"$1,188.94",$243.55
+"02 April, 2025",Central,Grocery,Fruits and Vegetables,Lance Willis,"$1,887.12",$222.08
+"04 April, 2025",East,Grocery,Fruits and Vegetables,Lela Donovan,"$1,188.59",$380.95
+"11 April, 2025",East,Stationery,Art Supplies,Mary Zewe,$48.93,$8.58
+"15 April, 2025",East,Stationery,Computer Paper,Michael Moore,"$1,680.31",$852.71
+"18 April, 2025",West,Grocery,Fruits and Vegetables,Maxwell Schwartz,"$5,084.34","$1,804.98"
+"18 April, 2025",West,Grocery,Fruits and Vegetables,Joseph Aaron,"$1,717.36",$944.80
+"21 April, 2025",West,Grocery,Fruits and Vegetables,Susan Juliet,"$2,159.20",$568.21
+"22 April, 2025",Central,Stationery,Computer Paper,Vincent Herbert,"$2,048.30","$1,037.83"
+"24 April, 2025",Central,Stationery,Writings Pads,Mathew Reese,$184.05,$65.96
+"27 April, 2025",East,Grocery,Fruits and Vegetables,Thomas Seio,"$1,803.74",$663.95
+"30 April, 2025",East,Stationery,Copy Paper,Mike Ballack,$87.47,$9.99
+"04 May, 2025",East,Stationery,Paper Clips,Michael Moore,$86.33,$14.80
+"06 May, 2025",West,Grocery,Fruits and Vegetables,Thomas Seio,"$8,209.94","$3,071.37"
+"08 May, 2025",Central,Grocery,Fruits and Vegetables,Catherine Rose,"$1,523.22",$435.46
+"09 May, 2025",East,Stationery,Computer Paper,Benjamin Ross,$964.11,$573.11
+"10 May, 2025",East,Grocery,Cereals,Mary Zewe,$166.64,$86.35
+"11 May, 2025",East,Grocery,Fruits and Vegetables,Lazar Mathew,"$6,589.07","$2,716.58"
+"12 May, 2025",Central,Grocery,Fruits and Vegetables,Steven Roelle,"$3,470.75","$1,300.53"
+"16 May, 2025",East,Grocery,Fruits and Vegetables,Catherine Jordan,"$2,096.44","$1,346.72"
+"17 May, 2025",West,Stationery,Storage Cabinets,Rick Reed,"$2,939.52",$270.08
+"24 May, 2025",West,Stationery,Computer Paper,Mathew Reese,"$2,330.29",$585.70
+"28 May, 2025",East,Grocery,Fruits and Vegetables,Vincent Herbert,$668.82,$182.98
+"30 May, 2025",East,Stationery,Computer Paper,Immaculate Anita,$405.88,$87.65
+"31 May, 2025",East,Stationery,Copy Paper,Augustine Paul,$141.32,$10.06
+"01 June, 2025",East,Stationery,Copy Paper,David Flashing,$524.67,$179.84
+"03 June, 2025",West,Grocery,Meat,Rhino Augustus,$280.88,$38.42
+"04 June, 2025",East,Grocery,Fruits and Vegetables,John Britto,$276.59,$116.37
+"05 June, 2025",East,Stationery,Round Ring Binders,Steffi Graf,$150.61,$30.69
+"07 June, 2025",East,Grocery,Fruits and Vegetables,Rozario Diego,"$4,605.69","$1,570.80"
+"09 June, 2025",East,Grocery,Fruits and Vegetables,Pete Zachriah,$754.30,$300.48
+"13 June, 2025",West,Grocery,Fruits and Vegetables,Lazar Mathew,$503.82,$190.95
+"15 June, 2025",East,Furniture,Metal Bookcases,Mary Elizabeth,"$3,524.93",$127.86
+"19 June, 2025",East,Grocery,Fruits and Vegetables,Tina Thomas,"$3,474.17","$1,093.84"
+"21 June, 2025",East,Stationery,Computer Paper,Catherine Rose,$572.07,$238.04
+"21 June, 2025",East,Grocery,Meat,Venu Karthik,"$2,103.63",$876.85
+"24 June, 2025",East,Grocery,Fruits and Vegetables,Stephanie Ulpright,"$3,757.05","$1,410.87"
+"26 June, 2025",East,Stationery,Art Supplies,Michael Nathan,$64.62,$13.88
+"26 June, 2025",Central,Grocery,Spices,Shui Tom,"$11,751.55","$6,365.29"
+"28 June, 2025",West,Stationery,Paper Clips,David Flashing,$16.38,$2.66
+"28 June, 2025",West,Grocery,Fruits and Vegetables,Peter Brian,"$3,908.01","$1,684.46"
+"29 June, 2025",West,Stationery,Computer Paper,Hilary Holden,"$1,896.85",$830.17
+"29 June, 2025",West,Grocery,Fruits and Vegetables,Nathan Astle,$924.53,$493.02
+"02 July, 2025",East,Grocery,Fruits and Vegetables,Maxwell Schwartz,"$5,569.84","$2,207.74"
+"06 July, 2025",East,Stationery,Air Purifiers,Barbara Fisher,"$2,195.88",$916.68
+"08 July, 2025",East,Stationery,Air Purifiers,Rozario Diego,$716.12,$143.90
+"27 July, 2025",Central,Grocery,Fruits and Vegetables,Jim Courier,"$4,356.56","$2,525.35"
+"28 July, 2025",West,Stationery,Standard Labels,Barbara Fisher,$121.15,$64.63
+"29 July, 2025",East,Stationery,Computer Paper,Grace Kelly,"$2,535.36","$1,154.30"
+"30 July, 2025",East,Stationery,Art Supplies,Lazar Mathew,"$1,055.82",$320.07
+"31 July, 2025",West,Furniture,Frames,Leena Mary,$120.53,$24.82
+"31 July, 2025",East,Stationery,Standard Labels,Mary Zewe,$60.96,$31.65
+"01 August, 2025",West,Furniture,Office Chairs,Mary Zewe,"$5,632.00","$3,215.78"
+"03 August, 2025",Central,Grocery,Fruits and Vegetables,Nathan Astle,"$1,669.65",$669.57
+"04 August, 2025",Central,Stationery,Pencils,Andy Flower,$129.57,$27.16
+"07 August, 2025",Central,Grocery,Fruits and Vegetables,David Boon,"$3,795.34",$501.20
+"08 August, 2025",East,Stationery,Copy Paper,Joseph Cairn,"$3,272.59","$1,113.97"
+"11 August, 2025",West,Stationery,Standard Labels,Augustine Paul,$115.81,$51.14
+"13 August, 2025",Central,Grocery,Fruits and Vegetables,Andy Roddick,"$4,791.55","$1,577.02"
+"14 August, 2025",Central,Stationery,Pencils,Shui Tom,$117.33,$14.91
+"15 August, 2025",East,Stationery,Standard Labels,Lance Willis,$66.99,$31.49
+"18 August, 2025",East,Stationery,Computer Paper,Roger Terrence,"$3,794.80","$1,284.31"
+"22 August, 2025",Central,Grocery,Fruits and Vegetables,Nathan Astle,$806.73,$326.43
+"25 August, 2025",West,Stationery,Heavy Duty Binders,Helen Magadalene,$578.01,$252.83
+"26 August, 2025",East,Stationery,Copy Paper,Ian Fleming,$811.37,$369.19
+"30 August, 2025",West,Stationery,Computer Paper,Jason Gross,"$1,001.17",$373.14
+"01 September, 2025",East,Furniture,Metal Bookcases,Roger Terrence,"$2,703.42",$446.41
+"02 September, 2025",Central,Grocery,Fruits and Vegetables,Venus Powell,"$1,250.57",$221.83
+"03 September, 2025",Central,Grocery,Fruits and Vegetables,Lazar Mathew,"$1,468.15",$537.08
+"05 September, 2025",East,Stationery,Art Supplies,Steffi Graf,$37.22,$5.50
+"06 September, 2025",East,Grocery,Fruits and Vegetables,Hallie Redmond,"$2,638.77",$923.41
+"07 September, 2025",West,Grocery,Fruits and Vegetables,Nathan Astle,"$2,000.44","$1,118.92"
+"09 September, 2025",East,Stationery,Pins and Tacks,Joseph Cairn,$6.14,$5.01
+"09 September, 2025",West,Stationery,Art Supplies,Maxwell Schwartz,$14.83,$2.39
+"10 September, 2025",East,Stationery,Art Supplies,John Elliot,$13.53,$4.82
+"11 September, 2025",Central,Stationery,File Labels,Andy Roddick,$21.99,$9.85
+"12 September, 2025",West,Grocery,Fruits and Vegetables,Peter Brian,"$1,963.15",$715.59
+"13 September, 2025",East,Stationery,File Labels,Olvera Toch,$137.53,$61.64
+"16 September, 2025",East,Stationery,Art Supplies,Tina Thomas,"$2,224.89",$836.39
+"19 September, 2025",East,Grocery,Fruits and Vegetables,Tina Thomas,"$9,034.72","$3,593.75"
+"22 September, 2025",West,Grocery,Fruits and Vegetables,Steven Gerrard,"$1,386.92",$589.24
+"27 September, 2025",Central,Stationery,Art Supplies,Patrick O'Brill,$41.37,$7.70
+"30 September, 2025",West,Grocery,Fruits and Vegetables,Grace Kelly,$331.23,$138.09
+"02 October, 2025",East,Grocery,Fruits and Vegetables,Steven Roelle,"$3,612.79","$1,295.86"
+"25 October, 2025",East,Grocery,Fruits and Vegetables,Rozario Diego,"$3,509.03","$1,047.01"
+"26 October, 2025",Central,Furniture,Office Chairs,Steven Roelle,$696.47,$210.78
+"28 October, 2025",East,Stationery,Computer Paper,John Britto,$212.74,$109.66
+"28 October, 2025",West,Stationery,Binding Supplies,Venus Powell,$611.71,$173.16
+"29 October, 2025",East,Grocery,Fruits and Vegetables,Leena Mary,"$5,118.45","$3,476.62"
+"01 November, 2025",West,Grocery,Fruits and Vegetables,Catherine Rose,"$1,977.77","$1,228.05"
+"06 November, 2025",East,Stationery,Binder Clips,Thomas Mondrake,$189.03,$79.82
+"06 November, 2025",West,Grocery,Fruits and Vegetables,Rick Reed,$360.78,$164.12
+"07 November, 2025",West,Stationery,Scissors,Rozario Diego,$986.38,$569.35
+"07 November, 2025",East,Stationery,Standard Labels,Neil Seth,$58.25,$28.11
+"11 November, 2025",East,Grocery,Fruits and Vegetables,Santa Cruz Clara,"$2,875.25","$1,005.89"
+"11 November, 2025",Central,Stationery,Specialty Envelopes,John Britto,"$3,882.65","$1,392.25"
+"13 November, 2025",East,Grocery,Fruits and Vegetables,Pete Zachriah,"$3,002.46",$972.44
